@@ -14,4 +14,4 @@ Language Programs:
 - Kotlin
 - React
 - Django
-etc. for learn in the future.
+- etc. for learn in the future.
