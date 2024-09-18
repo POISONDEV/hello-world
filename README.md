@@ -6,7 +6,7 @@ I'm Thai
 Future Programmer Fullstack & Developer
 SKRU 67: Computer Science
 
-Language Programs: 
+# Language Programs
 - Python
 - C C++ and C#
 - HTML, JavaScript, TS and CSS
