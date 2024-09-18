@@ -1,10 +1,11 @@
-# hello-world
-Hello everyone
-My fakename is POISON or NatzuX
-I'm Thai
+## 🚀 About Me
+Hello everyone 
+
+My fakename is POISON or NatzuX. I'm Thai.
+
+SKRU 67: Computer Science
 
 Future Programmer Fullstack & Developer
-SKRU 67: Computer Science
 
 # Language Programs
 - Python
