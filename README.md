@@ -9,10 +9,8 @@ Future Programmer Fullstack & Developer
 
 # Language Programs
 - Python
-- C C++ and C#
-- HTML, JavaScript, TS and CSS
+- C, C++ and C#
+- HTML, JavaScript, CSS and TypeScript
 - Java
-- Kotlin
-- React
-- Django
+- Kotlin & Swift
 - etc. for learn in the future.
